@@ -125,9 +125,8 @@ backend/
 
 | Role | Responsibility |
 |------|----------------|
-| Frontend Developer | Web UI using
-React + Tailwind |
-| Mobile Developer | React Native mobile app with offline mode |
+| Frontend Developer|Web UI using
+React + Tailwind|| Mobile Developer | React Native mobile app with offline mode |
 | Backend Developer | Node.js REST API, authentication, database |
 | AI Developer | FastAPI + LLaMA chatbot & sentiment analysis |
 | Analytics Developer | Trend analytics, charts, and admin insights |
