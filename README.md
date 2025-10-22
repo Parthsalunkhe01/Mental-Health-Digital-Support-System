@@ -4,6 +4,7 @@ A Smart India Hackathon 2025 project by **Team IgniteCodeX**
 
 A comprehensive **Digital Mental Health & Psychological Support System** designed to assist students in higher education with AI-driven mental health insights, multilingual chatbot support, and real-time analytics.
 
+##Project Structure
 - Mental-Health-Digital-Support-System/
   - web/
     - public/
